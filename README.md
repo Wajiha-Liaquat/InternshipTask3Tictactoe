@@ -1,2 +1,2 @@
 # InternshipTask3Tictactoe
-Prodigy InfoTech
+Intern at Prodigy InfoTech
